@@ -1,0 +1,4 @@
+#flashcards/intro 
+#review2 
+
+- Una vez definido el número de capas que se va a utilizar en un modelo (por ejemplo, siete capas en el [[Modelo OSI]] y 4 ó 5 capas (depende del autor) el [[Modelo de Internet]]) se debe definir uno o varios [[Protocolo|protocolos]] que implementen las funciones definidas en cada capa. La torre de protocolos es {{el conjunto de protocolos, uno por capa, que desarrollan un comunicación extremo a extremo en particular.}} Por ejemplo, si se utiliza el protocolo HTTP de nivel de aplicación, este utilizará normalmente el protocolo TCP de transporte, que utilizará el protocolo IP de nivel de red, que podría utilizar el protocolo WiFi de nivel de subred (enlace + físico). En este caso, la pila de protocolos sería HTTP/TCP/IP/WiFi.

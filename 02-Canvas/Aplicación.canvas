@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4fef8a3e558ecfb5","type":"file","file":"02-Canvas/DNS.canvas","x":-480,"y":-400,"width":400,"height":400},
+		{"id":"cf28223d589b3df6","type":"file","file":"02-Canvas/HTTP.canvas","x":-480,"y":100,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"a6337caf2ca7c5b8","fromNode":"4fef8a3e558ecfb5","fromSide":"bottom","toNode":"cf28223d589b3df6","toSide":"top"}
+	]
+}
