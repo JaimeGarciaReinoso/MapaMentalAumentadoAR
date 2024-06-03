@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"f84a9b5ad04f116d","type":"file","file":"02-Canvas/Introducción.canvas","x":-480,"y":-380,"width":400,"height":400},
+		{"id":"f84a9b5ad04f116d","type":"file","file":"02-Canvas/Introduccion.canvas","x":-480,"y":-380,"width":400,"height":400},
 		{"id":"33c23c0c17b021a1","type":"file","file":"02-Canvas/TCP.canvas","x":-480,"y":100,"width":400,"height":400},
-		{"id":"f73bd39c082523f1","type":"file","file":"02-Canvas/Aplicación.canvas","x":20,"y":-380,"width":400,"height":400},
+		{"id":"f73bd39c082523f1","type":"file","file":"02-Canvas/Aplicacion.canvas","x":20,"y":-380,"width":400,"height":400},
 		{"id":"316bf1f21f9d1537","x":-340,"y":-500,"width":120,"height":120,"type":"file","file":"03-Figuras/Start-here.jpg"}
 	],
 	"edges":[

@@ -43,7 +43,7 @@
 		{"id":"0e975ad8f770f9e0","type":"file","file":"03-Figuras/Cabecera_TCP.png","x":-80,"y":-1655,"width":720,"height":469},
 		{"id":"6ca2cdc37aeb251a","type":"file","file":"03-Figuras/Ejemplo_Temporizadores_1.png","x":-3320,"y":1600,"width":400,"height":208},
 		{"id":"62cbc08bec321920","type":"file","file":"03-Figuras/Ejemplo_Temporizadores_2.png","x":-3320,"y":1963,"width":400,"height":314},
-		{"id":"7d03fab33fc673f0","x":-888,"y":-3600,"width":1128,"height":439,"type":"file","file":"03-Figuras/Socket_TCP.png"}
+		{"id":"7d03fab33fc673f0","type":"file","file":"03-Figuras/Socket_TCP.png","x":-888,"y":-3600,"width":1128,"height":439}
 	],
 	"edges":[
 		{"id":"0a46deff29ad0187","fromNode":"d369707d85650916","fromSide":"right","toNode":"d1bdad4a80c2fe15","toSide":"left","color":"3","label":"3"},

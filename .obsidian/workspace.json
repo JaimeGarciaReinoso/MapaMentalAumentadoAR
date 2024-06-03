@@ -37,7 +37,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "02-Canvas/Introducción.canvas",
+                "file": "02-Canvas/Introduccion.canvas",
                 "viewState": {
                   "x": -2786.5286714898675,
                   "y": 629.862020252694,
@@ -50,11 +50,14 @@
             "id": "e85ecd50be0c0594",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
+                "file": "02-Canvas/Principal.canvas",
+                "viewState": {
+                  "x": -30,
+                  "y": 0,
+                  "zoom": -0.17255047084913558
+                }
               }
             }
           }
@@ -125,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "02-Canvas/Principal.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "02-Canvas/Principal.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "02-Canvas/Principal.canvas"
               }
             }
           },
@@ -196,19 +199,19 @@
   },
   "active": "e85ecd50be0c0594",
   "lastOpenFiles": [
+    "02-Canvas/Aplicacion.canvas",
+    "02-Canvas/Principal.canvas",
+    "02-Canvas/TCP.canvas",
+    "02-Canvas/HTTP.canvas",
     "02-Canvas/DNS.canvas",
+    "02-Canvas/Introduccion.canvas",
+    "README.md",
     "03-Figuras/Cabecera_TCP.png",
     "03-Figuras/Buffers_TCP.png",
-    "02-Canvas/TCP.canvas",
     "01-Notas/03-Nivel de Transporte/TCP/La conexión TCP.md",
     "03-Figuras/Socket_TCP.png",
     "03-Figuras/Start-here.jpg",
     "03-Figuras/Formato_respuestas.png",
-    "README.md",
-    "02-Canvas/Introducción.canvas",
-    "02-Canvas/Principal.canvas",
-    "02-Canvas/Aplicación.canvas",
-    "02-Canvas/HTTP.canvas",
     "01-Notas/02-Nivel Aplicación/DNS/Caché DNS.md",
     "01-Notas/03-Nivel de Transporte/TCP/Ventana de recepción en TCP.md",
     "Management/Review.md",
