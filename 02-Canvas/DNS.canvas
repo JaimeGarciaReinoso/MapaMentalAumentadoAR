@@ -20,8 +20,8 @@
 		{"id":"35fa79b872fd2f40","type":"file","file":"01-Notas/02-Nivel Aplicación/DNS/Tipos de Consultas DNS.md","x":40,"y":3000,"width":400,"height":400,"color":"6"},
 		{"id":"c7ef357d2bc13670","type":"file","file":"03-Figuras/Start-here.jpg","x":-611,"y":-400,"width":341,"height":341},
 		{"id":"69c397c5beeda547","type":"file","file":"01-Notas/02-Nivel Aplicación/DNS/Símil entre DNS y llamadas telefónicas.md","x":-1520,"y":-59,"width":400,"height":400},
-		{"id":"feb7ca3e05ac480d","x":1280,"y":-1440,"width":711,"height":373,"type":"file","file":"03-Figuras/Dominios_DNS.png"},
-		{"id":"c987ca37ca6c94c4","x":1320,"y":1946,"width":600,"height":349,"type":"file","file":"03-Figuras/Mensaje_DNS.png"}
+		{"id":"feb7ca3e05ac480d","type":"file","file":"03-Figuras/Dominios_DNS.png","x":1280,"y":-1440,"width":711,"height":373},
+		{"id":"c987ca37ca6c94c4","type":"file","file":"03-Figuras/Mensaje_DNS.png","x":1320,"y":1946,"width":600,"height":349}
 	],
 	"edges":[
 		{"id":"d62ddaf530451bf1","fromNode":"d555e66e0169cbc8","fromSide":"right","toNode":"03af551738930625","toSide":"left","label":"2"},

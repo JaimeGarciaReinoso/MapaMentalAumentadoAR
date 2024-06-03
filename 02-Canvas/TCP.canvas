@@ -25,8 +25,8 @@
 		{"id":"e3b1152c93742c62","type":"file","file":"01-Notas/03-Nivel de Transporte/TCP/Ventana de recepción en TCP.md","x":1280,"y":-487,"width":400,"height":400,"color":"4"},
 		{"id":"b12854f7b5f18145","type":"file","file":"01-Notas/03-Nivel de Transporte/TCP/Buffer del receptor en TCP.md","x":2360,"y":-627,"width":400,"height":400,"color":"4"},
 		{"id":"d1bdad4a80c2fe15","type":"file","file":"01-Notas/03-Nivel de Transporte/TCP/La conexión TCP.md","x":240,"y":25,"width":400,"height":400,"color":"3"},
-		{"id":"369598b23437dda6","x":2240,"y":425,"width":1407,"height":559,"type":"file","file":"03-Figuras/Ejemplo_conexion_TCP.png"},
-		{"id":"4d4dca6a3d390d07","x":2240,"y":1355,"width":1407,"height":619,"type":"file","file":"03-Figuras/Ejemplo_cierre_conexion_TCP.png"},
+		{"id":"369598b23437dda6","type":"file","file":"03-Figuras/Ejemplo_conexion_TCP.png","x":2240,"y":425,"width":1407,"height":559},
+		{"id":"4d4dca6a3d390d07","type":"file","file":"03-Figuras/Ejemplo_cierre_conexion_TCP.png","x":2240,"y":1355,"width":1407,"height":619},
 		{"id":"f64133331fb0164c","type":"file","file":"01-Notas/03-Nivel de Transporte/TCP/Envío de Segmentos en TCP.md","x":-1880,"y":-1600,"width":400,"height":400,"color":"6"},
 		{"id":"bc21127018c8283b","type":"file","file":"01-Notas/03-Nivel de Transporte/TCP/Política de generación de ACKs en TCP.md","x":-1880,"y":-1120,"width":400,"height":400,"color":"6"},
 		{"id":"ad7f7a5ab4336e97","type":"file","file":"01-Notas/03-Nivel de Transporte/TCP/Procesamiento de ACKs.md","x":-1880,"y":-607,"width":400,"height":400,"color":"6"},
@@ -40,9 +40,10 @@
 		{"id":"9276eafb96621474","type":"file","file":"01-Notas/03-Nivel de Transporte/TCP/Temporizadores en TCP - Cálculo.md","x":-2680,"y":690,"width":400,"height":400,"color":"6"},
 		{"id":"82ceceaad13b149f","type":"file","file":"01-Notas/03-Nivel de Transporte/TCP/Ejemplos temporizadores en TCP.md","x":-2680,"y":1720,"width":400,"height":400,"color":"6"},
 		{"id":"12df1e59e9e53f08","type":"file","file":"01-Notas/03-Nivel de Transporte/TCP/Fiabilidad en TCP.md","x":-1200,"y":-347,"width":400,"height":400,"color":"6"},
-		{"id":"0e975ad8f770f9e0","x":-80,"y":-1655,"width":720,"height":469,"type":"file","file":"03-Figuras/Cabecera_TCP.png"},
-		{"id":"6ca2cdc37aeb251a","x":-3320,"y":1600,"width":400,"height":208,"type":"file","file":"03-Figuras/Ejemplo_Temporizadores_1.png"},
-		{"id":"62cbc08bec321920","x":-3320,"y":1963,"width":400,"height":314,"type":"file","file":"03-Figuras/Ejemplo_Temporizadores_2.png"}
+		{"id":"0e975ad8f770f9e0","type":"file","file":"03-Figuras/Cabecera_TCP.png","x":-80,"y":-1655,"width":720,"height":469},
+		{"id":"6ca2cdc37aeb251a","type":"file","file":"03-Figuras/Ejemplo_Temporizadores_1.png","x":-3320,"y":1600,"width":400,"height":208},
+		{"id":"62cbc08bec321920","type":"file","file":"03-Figuras/Ejemplo_Temporizadores_2.png","x":-3320,"y":1963,"width":400,"height":314},
+		{"id":"7d03fab33fc673f0","x":-888,"y":-3600,"width":1128,"height":439,"type":"file","file":"03-Figuras/Socket_TCP.png"}
 	],
 	"edges":[
 		{"id":"0a46deff29ad0187","fromNode":"d369707d85650916","fromSide":"right","toNode":"d1bdad4a80c2fe15","toSide":"left","color":"3","label":"3"},
@@ -93,6 +94,8 @@
 		{"id":"0f495f66cdb32824","fromNode":"9b2759d46b621f01","fromSide":"right","toNode":"4d4dca6a3d390d07","toSide":"left","color":"3"},
 		{"id":"37baee6a1620e158","fromNode":"1f63051fc672df5e","fromSide":"top","toNode":"0e975ad8f770f9e0","toSide":"bottom","color":"4"},
 		{"id":"e1e5f4c5ef445643","fromNode":"82ceceaad13b149f","fromSide":"left","toNode":"6ca2cdc37aeb251a","toSide":"right","color":"6"},
-		{"id":"aa76ea618f3438ab","fromNode":"82ceceaad13b149f","fromSide":"left","toNode":"62cbc08bec321920","toSide":"right","color":"6"}
+		{"id":"aa76ea618f3438ab","fromNode":"82ceceaad13b149f","fromSide":"left","toNode":"62cbc08bec321920","toSide":"right","color":"6"},
+		{"id":"052bed26e764ad27","fromNode":"fd647fa5e25b751e","fromSide":"left","toNode":"7d03fab33fc673f0","toSide":"left","color":"6"},
+		{"id":"0a8f4656683b6e3e","fromNode":"b12854f7b5f18145","fromSide":"right","toNode":"7d03fab33fc673f0","toSide":"right","color":"4"}
 	]
 }

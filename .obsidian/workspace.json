@@ -50,21 +50,6 @@
             "id": "e85ecd50be0c0594",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "02-Canvas/DNS.canvas",
-                "viewState": {
-                  "x": -214.8011475409836,
-                  "y": 1160,
-                  "zoom": -2.482890591461286
-                }
-              }
-            }
-          },
-          {
-            "id": "95a0a1d2e0c5c117",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
@@ -74,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,8 +177,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,12 +194,22 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "95a0a1d2e0c5c117",
+  "active": "e85ecd50be0c0594",
   "lastOpenFiles": [
-    "01-Notas/02-Nivel Aplicación/DNS/Caché DNS.md",
+    "02-Canvas/DNS.canvas",
+    "03-Figuras/Cabecera_TCP.png",
+    "03-Figuras/Buffers_TCP.png",
+    "02-Canvas/TCP.canvas",
+    "01-Notas/03-Nivel de Transporte/TCP/La conexión TCP.md",
+    "03-Figuras/Socket_TCP.png",
+    "03-Figuras/Start-here.jpg",
+    "03-Figuras/Formato_respuestas.png",
     "README.md",
-    "02-Canvas/Principal.canvas",
     "02-Canvas/Introducción.canvas",
+    "02-Canvas/Principal.canvas",
+    "02-Canvas/Aplicación.canvas",
+    "02-Canvas/HTTP.canvas",
+    "01-Notas/02-Nivel Aplicación/DNS/Caché DNS.md",
     "01-Notas/03-Nivel de Transporte/TCP/Ventana de recepción en TCP.md",
     "Management/Review.md",
     "01-Notas/04-Nivel de Red/Dirección IP.md",
@@ -233,32 +227,21 @@
     "01-Notas/03-Nivel de Transporte/TCP/Reconocimientos acumulativos.md",
     "01-Notas/03-Nivel de Transporte/TCP/PSH (TCP flag).md",
     "01-Notas/03-Nivel de Transporte/TCP/Procesamiento de ACKs.md",
-    "02-Canvas/DNS.canvas",
     "01-Notas/03-Nivel de Transporte/TCP/Longitud de la cabecera de TCP.md",
     "01-Notas/03-Nivel de Transporte/TCP/Estructura segmento TCP.md",
     "01-Notas/02-Nivel Aplicación/HTTP/GET condicional.md",
     "01-Notas/03-Nivel de Transporte/TCP/Buffer del receptor en TCP.md",
     "01-Notas/03-Nivel de Transporte/TCP/MSS - Maximum Segment Size.md",
-    "01-Notas/03-Nivel de Transporte/TCP/Número de asentimiento de TCP.md",
-    "01-Notas/03-Nivel de Transporte/TCP/Número de secuencia de TCP.md",
     "03-Figuras/Dominios_DNS.png",
     "03-Figuras/Mensaje_DNS.png",
     "Files/PPT/DNS.pptx",
     "Files/PPT/Introducción_v2.pptx",
     "03-Figuras/Modelo-de-capas.pdf",
     "03-Figuras/Modelo-de-capas.png",
-    "02-Canvas/TCP.canvas",
     "03-Figuras/Ejemplo_cierre_conexion_TCP.png",
     "03-Figuras/Ejemplo_conexion_TCP.png",
-    "02-Canvas/HTTP.canvas",
     "03-Figuras/Ejemplo-GET-condicional.pdf",
-    "03-Figuras/Ejemplo-GET-condicional.png",
-    "03-Figuras/Ejemplo-GET-condicional.svg",
-    "03-Figuras/Ejemplo_GET_HTTP.png",
-    "03-Figuras/Ejemplo_HTTP_Proxy.png",
-    "Pasted image 20240521154859.png",
     "Files/PPT/~$TCP.tmp",
-    "02-Canvas/Aplicación.canvas",
     "Files/PPT/~$Introducción.pptx",
     "Files/PPT/TCP.pptx",
     "Files/PPT/HTTP.pptx",

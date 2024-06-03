@@ -13,7 +13,7 @@
 	- TCP realiza [[Segmentación]] si fuese necesario, añade [[Cabecera]] TCP a dichos segmentos y genera PDUs
 - Una vez se termina el intercambio de datos se debe cerrar la conexión TCP (ver [[Cierre de la conexión TCP]])
 
-![[Buffers_TCP.png]]
+![[Socket_TCP.png]]
 
 [^1]: [[Entidades par]]
 [^2]: [[Variables de estado en TCP]]

@@ -19,3 +19,7 @@ Vault de Obsidian con notas para seguir la asignatura Arquitectura de Redes I y 
 - Una vez seleccionado el mazo, te presentará notas de forma aleatoria en donde una parte de la misma estará oculta para que trates de recordar cuál es la respuesta correcta. 
 - Cuando quieras avanzar presiona el botón de *Show Answer*. Te aparecerán tres botones para seleccionar si consideras que la pregunta era *Easy*, *Good* o *Hard*. Contesta con sinceridad, porque esto es importante para que el algoritmo se adapte a tus conocimientos para preguntarte lo que más te cueste recordar.
 - Hay muchas opciones: repasar sólo las tarjeta difíciles, repasar todas, etc. Puedes ver más información en el github del repositorio: https://github.com/st3v3nmw/obsidian-spaced-repetition
+
+## Modificación y contribución
+- El material se publica para que sirva de base para estudiar la asignatura Arquitectura de Redes I, pero puedes ampliarlo, corregirlo y modificarlo para que se adapte a tu forma de estudiar. Puedes echarle un ojo a la [[LICENSE|licensia]] por si quieres distribuirlo o crear un material ampliado del mismo.
+- Si quieres contribuir, o reportar un problema, puedes hacerlo en el github del mapa mental ampliado de AR1 https://github.com/JaimeGarciaReinoso/MapaMentalAumentadoAR
