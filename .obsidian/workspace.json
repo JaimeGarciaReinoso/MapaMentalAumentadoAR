@@ -50,14 +50,11 @@
             "id": "e85ecd50be0c0594",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "02-Canvas/Principal.canvas",
-                "viewState": {
-                  "x": -30,
-                  "y": 0,
-                  "zoom": -0.17255047084913558
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -128,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Canvas/Principal.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Canvas/Principal.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Canvas/Principal.canvas"
+                "file": "README.md"
               }
             }
           },
@@ -199,8 +196,8 @@
   },
   "active": "e85ecd50be0c0594",
   "lastOpenFiles": [
-    "02-Canvas/Aplicacion.canvas",
     "02-Canvas/Principal.canvas",
+    "02-Canvas/Aplicacion.canvas",
     "02-Canvas/TCP.canvas",
     "02-Canvas/HTTP.canvas",
     "02-Canvas/DNS.canvas",

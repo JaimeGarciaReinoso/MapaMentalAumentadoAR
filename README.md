@@ -5,7 +5,8 @@ Vault de Obsidian con notas para seguir la asignatura Arquitectura de Redes I y 
 ## Instalación
 - Descarga e instala Obsidian [https://obsidian.md/], que es un gestor de notas libre para uso personal y sin ánimos de lucro.
 - Descarga el contenido del Mapa Mental Aumentado para Arquitectura de Redes I (llamado *vault* en obsidian) desde [https://github.com/JaimeGarciaReinoso/MapaMentalAumentadoAR]. Puedes pinchar en el botón verde que pone *<> Code* y seleccionar la opción de *Download ZIP*. También te lo puedes descargar usando el comando *git clone https://github.com/JaimeGarciaReinoso/MapaMentalAumentadoAR.git*
-- Una vez descomprimido el fichero zip, o descargado usando el comando *git*, puedes abrir Obsidian e importar el *vault* seleccionando Fichero -> Abrir vault . Luego selecciona *Abrir directorio como vault* y finalmente debes confiar en este *vault*, ya que se cargarán algunos plugins de los que hablaremos más adelante.
+- Una vez descomprimido el fichero zip, o descargado usando el comando *git*, puedes abrir Obsidian e importar el *vault* seleccionando Fichero -> Abrir vault . Luego selecciona *Abrir directorio como vault* y selecciona el directorio que acabas de descomprimir. Finalmente debes confiar en este *vault*, ya que se cargarán algunos plugins de los que hablaremos más adelante.
+- Puedes cambiar el idioma (Settings->General) y la apariencia/tema (Settings->Appearance).
 
 ## Estudiar con el Mapa Mental Aumentado
 - En Obsidian verás que hay varios directorios. Aunque puedes utilizar las notas que están en el directorio *01-Notas*, se recomienda utilizar los *canvas* que puedes encontrar en el directorio *02-Canvas*.
