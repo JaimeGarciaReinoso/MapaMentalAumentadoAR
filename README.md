@@ -14,13 +14,14 @@ Vault de Obsidian con notas para seguir la asignatura Arquitectura de Redes I y 
 - Busca siempre el icono que dice *Start here* para saber en qué punto debes comenzar a leer en el canvas. 
 - Las flechas que unen los elementos de los canvas indican el orden sugerido para continuar la lectura.
 - Para hacer zoom en una tarjeta específica selecciónala y pulsa las teclas "Shift+2". Para ver todas las tarjetas puedes pulsar las teclas "Shift+1".
+- Algunas notas contienen cadenas de texto encerradas entre dobles llaves \{\{\}\}. Esto indica que dicho contenido es muy importante, por lo que hay que estudiarlo detenidamente. Esta identificación de dobles llaves la utiliza el plugin de *Spaced Repetition* para el repaso de tarjetas [[README#Repaso de las tarjetas]].
 
 ## Repaso de las tarjetas
 - El *vault* incluye el plugin *Spaced Repetition* que permite repasar las notas estudiadas. A la izquierda de Obsidian verás un icono que parecen unas barajas (si no lo encuentras, presiona CMD+P o CTRL+P y busca Spaced Repetition). Si lo seleccionas, verás que se abre una ventana con una estructura jerárquica. Selecciona el mazo de preguntas que quieras estudiar/repasar.
-- Una vez seleccionado el mazo, te presentará notas de forma aleatoria en donde una parte de la misma estará oculta para que trates de recordar cuál es la respuesta correcta. 
+- Una vez seleccionado el mazo, te presentará notas de forma aleatoria en donde una parte de la misma estará oculta para que trates de recordar cuál es la respuesta correcta.
 - Cuando quieras avanzar presiona el botón de *Show Answer*. Te aparecerán tres botones para seleccionar si consideras que la pregunta era *Easy*, *Good* o *Hard*. Contesta con sinceridad, porque esto es importante para que el algoritmo se adapte a tus conocimientos para preguntarte lo que más te cueste recordar.
 - Hay muchas opciones: repasar sólo las tarjeta difíciles, repasar todas, etc. Puedes ver más información en el github del repositorio: https://github.com/st3v3nmw/obsidian-spaced-repetition
 
 ## Modificación y contribución
-- El material se publica para que sirva de base para estudiar la asignatura Arquitectura de Redes I, pero puedes ampliarlo, corregirlo y modificarlo para que se adapte a tu forma de estudiar. Puedes echarle un ojo a la [[LICENSE|licensia]] por si quieres distribuirlo o crear un material ampliado del mismo.
+- El material se publica para que sirva de base para estudiar la asignatura Arquitectura de Redes I, pero puedes ampliarlo, corregirlo y modificarlo para que se adapte a tu forma de estudiar. Puedes echarle un ojo a la [[LICENSE|licencia]] por si quieres distribuirlo o crear un material ampliado del mismo.
 - Si quieres contribuir, o reportar un problema, puedes hacerlo en el github del mapa mental ampliado de AR1 https://github.com/JaimeGarciaReinoso/MapaMentalAumentadoAR
