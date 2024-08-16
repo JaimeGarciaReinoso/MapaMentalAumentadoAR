@@ -2,6 +2,8 @@
 
 Vault de Obsidian con notas para seguir la asignatura Arquitectura de Redes I y Arquitectura de Redes de la Universidad de Alcalá.
 
+![Canvas de TCP](03-Figuras/Screenshot-TCP-Canvas.png)
+
 ## Instalación
 - Descarga e instala Obsidian [https://obsidian.md/], que es un gestor de notas libre para uso personal y sin ánimo de lucro.
 - Descarga el contenido del Mapa Mental Aumentado para Arquitectura de Redes I (llamado *vault* en obsidian) desde [https://github.com/JaimeGarciaReinoso/MapaMentalAumentadoAR]. Puedes pinchar en el botón verde que pone *<> Code* y seleccionar la opción de *Download ZIP*. También te lo puedes descargar usando el comando *git clone https://github.com/JaimeGarciaReinoso/MapaMentalAumentadoAR.git*
@@ -25,3 +27,9 @@ Vault de Obsidian con notas para seguir la asignatura Arquitectura de Redes I y 
 ## Modificación y contribución
 - El material se publica para que sirva de base para estudiar la asignatura Arquitectura de Redes I, pero puedes ampliarlo, corregirlo y modificarlo para que se adapte a tu forma de estudiar. Puedes echarle un ojo a la [[LICENSE|licencia]] por si quieres distribuirlo o crear un material ampliado del mismo.
 - Si quieres contribuir, o reportar un problema, puedes hacerlo en el github del mapa mental ampliado de AR1 https://github.com/JaimeGarciaReinoso/MapaMentalAumentadoAR
+
+## Ayúdanos a difundir este trabajo
+- Este proyecto se presentó a la convocatoria de Proyectos de Innovación Docente 2024 de la Universidad de Alcalá, resultando *no aprobado* ya que la comisión evaluadora consideró que "A juicio de la comisión, estas actividades no se consideran que sean de innovación docente". Aún así, el proyecto se ha realizado sin el apoyo de la UAH porque creemos que este mapa mental aumentado sí es un proyecto de innovación. Si tú tampoco estás de acuerdo con la comisión, te agradecería que les envíes un correo a [ideo@uah.es](mailto:ideo@uah.es) con un texto similar al siguiente:
+	- Asunto del correo: Apoyo al proyecto de innovación docente UAH/EV1535
+	- Contenido del correo: Después de ver el contenido del proyecto "Un Mapa Mental Aumentado para la asignatura Arquitectura de Redes I" con código UAH/EV1535, disponible en https://github.com/JaimeGarciaReinoso/MapaMentalAumentadoAR, y no aprobado en la convocatoria de Proyectos de Innovación Docente 2024 de la Universidad de Alcalá, considero que la comisión se equivocó en su juicio ya que, en mi opinión, este es un proyecto que representa una innovación con respecto al material disponible en la asignatura.
+- Y por supuesto, ¡¡¡comparte este proyecto con tus amigos/colegas/conocidos a los que les pueda resultar útil!!!
