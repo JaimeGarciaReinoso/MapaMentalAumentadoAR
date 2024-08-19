@@ -39,7 +39,9 @@
 		{"id":"685234a45374b609","type":"file","file":"03-Figuras/Servicio-Protocolo-SAP.png","x":1200,"y":-270,"width":399,"height":255},
 		{"id":"4140445bdb2baa94","type":"file","file":"01-Notas/01-Introducción/Segmentación.md","x":1160,"y":1671,"width":400,"height":400,"color":"2"},
 		{"id":"c22b381ae1426ec6","type":"file","file":"03-Figuras/Modelo-de-capas.png","x":1720,"y":1250,"width":856,"height":482},
-		{"id":"351f1aa6b2fd8342","type":"file","file":"01-Notas/01-Introducción/Símil de un protocolo.md","x":-695,"y":1771,"width":400,"height":400,"color":"2"}
+		{"id":"351f1aa6b2fd8342","type":"file","file":"01-Notas/01-Introducción/Símil de un protocolo.md","x":-695,"y":1771,"width":400,"height":400,"color":"2"},
+		{"id":"c52492ace65bf9b1","type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/HMXKT4h1CVQ?si=lxGdcqD7ZRGA600v\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>","x":2148,"y":3290,"width":657,"height":381},
+		{"id":"fcb0de58a1c565ef","x":2840,"y":1304,"width":640,"height":374,"type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/jcdwz0sJoWw?si=PZObWAtsRNTKyxpp\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"}
 	],
 	"edges":[
 		{"id":"f246ab5417992697","fromNode":"70dfdf81466d1270","fromSide":"right","toNode":"02e8c26088cbe6a0","toSide":"left","label":"2"},
@@ -83,6 +85,8 @@
 		{"id":"b64c2a45865cedfd","fromNode":"52d70d1c4630251f","fromSide":"right","toNode":"c22b381ae1426ec6","toSide":"left"},
 		{"id":"dce3872979b53487","fromNode":"5822f72d563a0b40","fromSide":"right","toNode":"c22b381ae1426ec6","toSide":"left"},
 		{"id":"d043ca833a6e7a8a","fromNode":"f900eaf387d44f3b","fromSide":"right","toNode":"c22b381ae1426ec6","toSide":"left"},
-		{"id":"7d47c2ea2635b338","fromNode":"61c98d7e9546c3b7","fromSide":"bottom","toNode":"351f1aa6b2fd8342","toSide":"right"}
+		{"id":"7d47c2ea2635b338","fromNode":"61c98d7e9546c3b7","fromSide":"bottom","toNode":"351f1aa6b2fd8342","toSide":"right"},
+		{"id":"4a61905a6eb59b5d","fromNode":"5d6162faaed8e6e6","fromSide":"right","toNode":"c52492ace65bf9b1","toSide":"left"},
+		{"id":"1b60dd24818169bf","fromNode":"c22b381ae1426ec6","fromSide":"right","toNode":"fcb0de58a1c565ef","toSide":"left"}
 	]
 }

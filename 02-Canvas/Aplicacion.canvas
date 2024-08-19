@@ -1,9 +1,11 @@
 {
 	"nodes":[
 		{"id":"4fef8a3e558ecfb5","type":"file","file":"02-Canvas/DNS.canvas","x":-480,"y":-400,"width":400,"height":400},
-		{"id":"cf28223d589b3df6","type":"file","file":"02-Canvas/HTTP.canvas","x":-480,"y":100,"width":400,"height":400}
+		{"id":"cf28223d589b3df6","type":"file","file":"02-Canvas/HTTP.canvas","x":-480,"y":100,"width":400,"height":400},
+		{"id":"db7aeae91847c22d","x":100,"y":110,"width":606,"height":380,"type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/phcx9cGMyNQ?si=pPyWalTf-rtz8ca3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"}
 	],
 	"edges":[
-		{"id":"a6337caf2ca7c5b8","fromNode":"4fef8a3e558ecfb5","fromSide":"bottom","toNode":"cf28223d589b3df6","toSide":"top"}
+		{"id":"a6337caf2ca7c5b8","fromNode":"4fef8a3e558ecfb5","fromSide":"bottom","toNode":"cf28223d589b3df6","toSide":"top"},
+		{"id":"23358ecb7a744b25","fromNode":"cf28223d589b3df6","fromSide":"right","toNode":"db7aeae91847c22d","toSide":"left"}
 	]
 }

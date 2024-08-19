@@ -22,7 +22,7 @@
 		{"id":"69c397c5beeda547","type":"file","file":"01-Notas/02-Nivel Aplicación/DNS/Símil entre DNS y llamadas telefónicas.md","x":-1520,"y":-59,"width":400,"height":400,"color":"#2810da"},
 		{"id":"feb7ca3e05ac480d","type":"file","file":"03-Figuras/Dominios_DNS.png","x":1280,"y":-1440,"width":711,"height":373},
 		{"id":"c987ca37ca6c94c4","type":"file","file":"03-Figuras/Mensaje_DNS.png","x":1320,"y":1946,"width":600,"height":349},
-		{"id":"f78ae8aa4014a349","x":-753,"y":3860,"width":624,"height":360,"type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/XpIF4v5FymM?si=Hifd8BYkVGaN7w42\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"}
+		{"id":"f78ae8aa4014a349","type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/XpIF4v5FymM?si=Hifd8BYkVGaN7w42\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>","x":-753,"y":3860,"width":624,"height":360}
 	],
 	"edges":[
 		{"id":"d62ddaf530451bf1","fromNode":"d555e66e0169cbc8","fromSide":"right","toNode":"03af551738930625","toSide":"left","color":"4","label":"2"},
