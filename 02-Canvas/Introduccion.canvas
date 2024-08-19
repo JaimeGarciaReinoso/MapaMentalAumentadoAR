@@ -41,7 +41,7 @@
 		{"id":"c22b381ae1426ec6","type":"file","file":"03-Figuras/Modelo-de-capas.png","x":1720,"y":1250,"width":856,"height":482},
 		{"id":"351f1aa6b2fd8342","type":"file","file":"01-Notas/01-Introducción/Símil de un protocolo.md","x":-695,"y":1771,"width":400,"height":400,"color":"2"},
 		{"id":"c52492ace65bf9b1","type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/HMXKT4h1CVQ?si=lxGdcqD7ZRGA600v\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>","x":2148,"y":3290,"width":657,"height":381},
-		{"id":"fcb0de58a1c565ef","x":2840,"y":1304,"width":640,"height":374,"type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/jcdwz0sJoWw?si=PZObWAtsRNTKyxpp\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"}
+		{"id":"fcb0de58a1c565ef","type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/jcdwz0sJoWw?si=PZObWAtsRNTKyxpp\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>","x":2840,"y":1304,"width":640,"height":374}
 	],
 	"edges":[
 		{"id":"f246ab5417992697","fromNode":"70dfdf81466d1270","fromSide":"right","toNode":"02e8c26088cbe6a0","toSide":"left","label":"2"},

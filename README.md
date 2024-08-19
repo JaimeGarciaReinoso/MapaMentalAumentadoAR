@@ -1,6 +1,6 @@
 # Mapa Mental Aumentado para Arquitectura de Redes
 
-Vault de Obsidian con notas para seguir la asignatura Arquitectura de Redes I y Arquitectura de Redes de la Universidad de Alcalá.
+Vault de Obsidian con notas para seguir la asignatura Arquitectura de Redes I y Arquitectura de Redes de la Universidad de Alcalá. En el siguiente vídeo puedes ver cómo instalar y utilizar este Mapa Mental Aumentado https://youtu.be/P0n3VQC195w?si=qdwPfx607jwX_zTv
 
 ![Canvas de TCP](03-Figuras/Screenshot-TCP-Canvas.png)
 
