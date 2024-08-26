@@ -21,8 +21,7 @@
 		{"id":"c7ef357d2bc13670","type":"file","file":"03-Figuras/Start-here.jpg","x":-611,"y":-400,"width":341,"height":341},
 		{"id":"69c397c5beeda547","type":"file","file":"01-Notas/02-Nivel Aplicación/DNS/Símil entre DNS y llamadas telefónicas.md","x":-1520,"y":-59,"width":400,"height":400,"color":"#2810da"},
 		{"id":"feb7ca3e05ac480d","type":"file","file":"03-Figuras/Dominios_DNS.png","x":1280,"y":-1440,"width":711,"height":373},
-		{"id":"c987ca37ca6c94c4","type":"file","file":"03-Figuras/Mensaje_DNS.png","x":1320,"y":1946,"width":600,"height":349},
-		{"id":"f78ae8aa4014a349","type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/XpIF4v5FymM?si=Hifd8BYkVGaN7w42\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>","x":-753,"y":3860,"width":624,"height":360}
+		{"id":"c987ca37ca6c94c4","type":"file","file":"03-Figuras/Mensaje_DNS.png","x":1320,"y":1946,"width":600,"height":349}
 	],
 	"edges":[
 		{"id":"d62ddaf530451bf1","fromNode":"d555e66e0169cbc8","fromSide":"right","toNode":"03af551738930625","toSide":"left","color":"4","label":"2"},
@@ -44,7 +43,6 @@
 		{"id":"20cbad39ab8b6b3f","fromNode":"049ed6d410f77f01","fromSide":"bottom","toNode":"35fa79b872fd2f40","toSide":"top","color":"6"},
 		{"id":"25583510b9306a91","fromNode":"d555e66e0169cbc8","fromSide":"left","toNode":"69c397c5beeda547","toSide":"right","color":"4","label":"4"},
 		{"id":"805aa490a84196f9","fromNode":"1271a99b7d2f1e24","fromSide":"right","toNode":"feb7ca3e05ac480d","toSide":"left","color":"3"},
-		{"id":"2a68ff3fdc11bb94","fromNode":"f2dd5660067b4cea","fromSide":"right","toNode":"c987ca37ca6c94c4","toSide":"left","color":"6"},
-		{"id":"48e3fb1437a66e52","fromNode":"c46270083960e6c8","fromSide":"bottom","toNode":"f78ae8aa4014a349","toSide":"top"}
+		{"id":"2a68ff3fdc11bb94","fromNode":"f2dd5660067b4cea","fromSide":"right","toNode":"c987ca37ca6c94c4","toSide":"left","color":"6"}
 	]
 }
